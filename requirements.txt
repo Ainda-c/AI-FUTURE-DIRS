@@ -1,0 +1,8 @@
+tensorflow
+keras
+numpy
+matplotlib
+kagglehub
+qiskit
+qiskit-aer
+pylatexenc
