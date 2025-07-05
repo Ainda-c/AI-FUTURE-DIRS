@@ -1,10 +1,9 @@
 # AI Future Directions: Edge, Ethics, and Quantum 🚀
 
-
 This project explores the future of Artificial Intelligence across three transformative themes:
 
-- **Edge AI**: Lightweight machine learning models deployed on edge devices.
-- **Ethical AI**: Assessment of algorithmic bias in critical sectors like medicine and governance.
+- **Edge AI**: Lightweight machine learning models deployed on edge devices.  
+- **Ethical AI**: Assessment of algorithmic bias in critical sectors like medicine and governance.  
 - **Quantum AI**: Early simulations of AI optimization using quantum computing.
 
 The repository combines models, case studies, theoretical analysis, technical design, and visual presentations—geared toward ethical and practical AI integration in future systems.
