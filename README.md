@@ -10,7 +10,8 @@ The repository combines models, case studies, theoretical analysis, technical de
 
 ---
 
-![The Rise of Artificial Intelligence – How AI is Shaping Our Future](https://raw.githubusercontent.com/Ainda-c/AI-FUTURE-DIRS/main/ai-future-poster.jpg)
+![AI Future Poster](https://raw.githubusercontent.com/Ainda-c/AI-FUTURE-DIRS/master/ai-future-poster.jpg)
+
 
 ---
 
