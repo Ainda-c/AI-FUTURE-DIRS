@@ -11,6 +11,10 @@ The repository combines models, case studies, theoretical analysis, technical de
 
 ---
 
+![The Rise of Artificial Intelligence – How AI is Shaping Our Future](https://github.com/Ainda-c/AI-FUTURE-DIRS/blob/main/AI%20Ascendant_%20Shaping%20the%20Future%20Ahead.jpeg?raw=true)
+
+---
+
 ## 📁 Repository Structure
 
 ```
